@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2628991024616775886
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2628991024616775884}
+  - component: {fileID: 2628991024616775887}
+  m_Layer: 0
+  m_Name: Unit Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2628991024616775884
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2628991024616775886}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2628991024616775887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2628991024616775886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9893eea49806b543aa3f9cd1eeafcda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _unitSelected: {fileID: 0}
+  _heroTank: {fileID: 3230462439607672174, guid: 3da6fd1bbc0fc014baeacf5486d5934f, type: 3}
+  _heroCac: {fileID: 4506483601968442911, guid: ead3c3a9d9ccafb4f97c05e42db46cb9, type: 3}
+  _heroDistance: {fileID: 1816942930576828218, guid: 454e4a2c5a6c05c4991aab2d88126e41, type: 3}
+  _heroHealer: {fileID: 7995582552281036911, guid: 57c5961d78350e64a8c110a2d3f5a660, type: 3}
+  _ennemiTank: {fileID: 5216428611593667567, guid: ddd807e1ae1e60b49a67a471321a5f67, type: 3}
+  _ennemiCac: {fileID: 8343695507500516106, guid: 54cbe5a28a44fc545ac17b6f53a7aec5, type: 3}
+  _ennemiDistance: {fileID: 8748670091436704119, guid: 13fed89a4a8c13a4ebc8614dabe4e735, type: 3}
+  _ennemiHealer: {fileID: 6699306702983735080, guid: 13937f238fe829247b2f9a8b26ef8b95, type: 3}

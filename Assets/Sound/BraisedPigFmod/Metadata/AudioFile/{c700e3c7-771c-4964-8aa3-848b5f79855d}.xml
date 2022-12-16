@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c700e3c7-771c-4964-8aa3-848b5f79855d}">
+		<property name="assetPath">
+			<value>HeatleyBros - HeatleyBros VI - A Worthy Struggle.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>276.14040816326531</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5bf9826b-8e22-4f30-b62d-0e1233bf0338}</destination>
+		</relationship>
+	</object>
+</objects>

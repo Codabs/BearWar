@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e82a5e7f-6f9c-455b-83d5-b1db964a5ea4}">
+		<property name="assetPath">
+			<value>FootDirt-004.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.31346938775510202</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fc3d43d0-3079-41db-b41d-d51c51b38874}</destination>
+		</relationship>
+	</object>
+</objects>

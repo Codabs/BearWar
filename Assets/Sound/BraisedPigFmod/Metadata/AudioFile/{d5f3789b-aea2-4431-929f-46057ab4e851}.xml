@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d5f3789b-aea2-4431-929f-46057ab4e851}">
+		<property name="assetPath">
+			<value>Ice5Sound.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.63587301587301592</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5bf9826b-8e22-4f30-b62d-0e1233bf0338}</destination>
+		</relationship>
+	</object>
+</objects>

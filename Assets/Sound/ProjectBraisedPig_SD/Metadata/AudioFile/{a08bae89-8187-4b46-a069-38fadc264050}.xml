@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a08bae89-8187-4b46-a069-38fadc264050}">
+		<property name="assetPath">
+			<value>sound_axe_draw.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.8360000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fc3d43d0-3079-41db-b41d-d51c51b38874}</destination>
+		</relationship>
+	</object>
+</objects>

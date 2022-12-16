@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CacAnimator
+  m_Controller: {fileID: 9100000, guid: 418e9603ddf538a4c8ebe06c79ac555d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cab215d810070f74dbb22d4c7f66c1ff, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 633e168d2763637448efcf4842542133, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 14d8b390167a2fd48a45dc4b9b909b5d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f35c27941bfde7c43a582467f38b748d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8e83a8db5b10e2b4b9a6b5f247052819, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4029c55e491632b43be84079cabbf072, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 01d1f280a8f214840ac84742d006dd55, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8d5f0105a3b25b4478e72189f5bf12fb, type: 2}

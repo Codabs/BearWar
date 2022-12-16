@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8183f97e-a726-4582-b28b-4c486bae754d}">
+		<property name="assetPath">
+			<value>sound_arrowshoot_2.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.36571428571428571</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fc3d43d0-3079-41db-b41d-d51c51b38874}</destination>
+		</relationship>
+	</object>
+</objects>

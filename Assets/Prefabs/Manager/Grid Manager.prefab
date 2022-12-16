@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6645496481263977608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3950333001337704356}
+  - component: {fileID: 5317572926392725650}
+  m_Layer: 0
+  m_Name: Grid Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3950333001337704356
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6645496481263977608}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.0822306, y: 0.85572165, z: -9.950705}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5317572926392725650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6645496481263977608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15af03e51910f684ca156d555b09c19f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orgineTile: {x: 5, y: 0, z: -9}
+  _width: 21
+  _height: 21
+  _tileParent: {fileID: 0}
+  _tileSize: 1.8
+  _offSpringY: {x: 0.519, y: 0.299}
+  _offSpringX: {x: 0.524, y: -0.312}
+  _tileList:
+  - {fileID: 3076772656621203179, guid: 2fddb5c2913644345a35567cc18f08f1, type: 3}
+  - {fileID: 8762455334531560850, guid: 51f15964ee711fe4d8dbff4f04416eb2, type: 3}
+  - {fileID: 6181177695578797949, guid: 278b0200b64f52543a7fd37d99685e04, type: 3}
+  - {fileID: 8882275772293190405, guid: e23209657b351264197a14649b677041, type: 3}
+  - {fileID: -2735334739682761716, guid: 5e36f926ec888cd47907a89242701dce, type: 3}
+  cam: {fileID: 0}
+  _buildingsTiles: []
+  IsDiagonalMovementEnable: 0

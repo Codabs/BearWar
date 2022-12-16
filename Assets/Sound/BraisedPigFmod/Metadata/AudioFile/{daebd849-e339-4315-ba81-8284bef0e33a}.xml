@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{daebd849-e339-4315-ba81-8284bef0e33a}">
+		<property name="assetPath">
+			<value>Footsteps_Snow_Walk_09.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.54833333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5bf9826b-8e22-4f30-b62d-0e1233bf0338}</destination>
+		</relationship>
+	</object>
+</objects>
